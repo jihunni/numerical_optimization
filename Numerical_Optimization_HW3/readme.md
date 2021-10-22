@@ -1,4 +1,4 @@
-Jihun Jeung (jihun@gm.gist.ac.kr, 20211155)
+Jihun Jeung (jihun@gm.gist.ac.kr)
 Life data mining Lab, School of Life Science, Gwangju Institute of Science and Technology
 
 Program Envrionment
